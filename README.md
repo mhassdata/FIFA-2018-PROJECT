@@ -21,6 +21,17 @@ Dashboard including Various Visualizations
 4- Top 10 Overall Rating for Players by Club ( Box and Whiskers)
 4b- Top 10 Players Based on Key Attributes (Attribute Comparrison Chart)
 
+## RESULTS
+
+After analysing Fifa data set and we can see that Spain rates high in multiple factors on these analysis and based on that we can state that Spain is a very competitive league and does have some of the best players in the world.
+
+And two of those players stand above the rest and those players are Christiano Ronaldo and Leo Messi.
+
+When it comes to who is the best player in the world this topic can get heated as both players stand out with such amazing skills and attributes.
+
+To answer this question it would come down to preference as their numbers are both outstanding and for me I love the south American style of game and would say Messi is the best player on the world I would recommend taking a closer look at the data and making your decision.
+
+
 ##HOW TO VIEW VISUALIZATION
 
 Link To Tableau:
